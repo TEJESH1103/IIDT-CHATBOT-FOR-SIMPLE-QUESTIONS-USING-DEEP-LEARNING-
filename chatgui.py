@@ -1,5 +1,3 @@
-#https://github.com/tridibsamanta/Chatbot-using-Python
-
 import nltk
 from nltk.stem import WordNetLemmatizer
 lemmatizer = WordNetLemmatizer()
@@ -118,3 +116,4 @@ EntryBox.place(x=128, y=401, height=90, width=265)
 SendButton.place(x=6, y=401, height=90)
 
 base.mainloop()
+
